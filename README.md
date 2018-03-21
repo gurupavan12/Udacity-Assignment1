@@ -3,5 +3,5 @@
 Assignments of the Udacity MOOC Deep Learning. This repository contains the assignments I have done during the Udacity MOOC on Deep Learning with Google. 
 
 # Credits
-All the assignments come from Udacity and the TensorFlow repository. 
+All the assignments come from Udacity [a link](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb) and the TensorFlow repository [a link](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity). 
 the weird fonts dataset used for this image recognition is the notMNIST dataset from Yaroslav Bulatov (there are also a download mirrors for the large and small dataset)
